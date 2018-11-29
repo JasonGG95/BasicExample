@@ -1,0 +1,44 @@
+/* Styles the tables */
+.table{
+    border: 1px solid whitesmoke;
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+}
+.th{
+    text-align: center;
+}
+
+/*Styles the modal*/
+
+#modal-para{
+    font-family: "Helvetica Neue";
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+}
+#modal_button{
+    background:none!important;
+    border:none; 
+    padding:0!important;
+    font-family: "Helvetica Neue";
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    color:#333333;
+}
+
+/* Styles the Form Tables */
+
+.formTable{
+    border: none;
+    color:#333333;
+    margin: 0 auto;
+    text-align: left;
+    width: 50%;
+}
+.formTable th{
+    width: 25%;
+}
+
